@@ -201,6 +201,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats/base/dnanmeanwd`][@stdlib/stats/base/dnanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array, using Welford's algorithm and ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats/base/nanmeanwd`][@stdlib/stats/base/nanmeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values and using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/smeanwd`][@stdlib/stats/base/smeanwd]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/snanmean`][@stdlib/stats/base/snanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -265,6 +284,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@welford:1962a]: https://doi.org/10.1080/00401706.1962.10490022
 
 [@vanreeken:1968a]: https://doi.org/10.1145/362929.362961
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanmeanwd]: https://github.com/stdlib-js/stats-base-dnanmeanwd
+
+[@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd
+
+[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd
+
+[@stdlib/stats/base/snanmean]: https://github.com/stdlib-js/stats-base-snanmean
+
+<!-- </related-links> -->
 
 </section>
 
