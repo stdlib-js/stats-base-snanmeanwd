@@ -70,7 +70,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.snanmeanwd;
+})();
 })();
 </script>
 ```
@@ -187,6 +189,7 @@ var v = snanmeanwd.ndarray( N, x, 2, 1 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanmeanwd@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var x;
 var i;
@@ -204,6 +207,7 @@ console.log( x );
 var v = snanmeanwd( x.length, x, 1 );
 console.log( v );
 
+})();
 })();
 </script>
 </body>
@@ -315,7 +319,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [arithmetic-mean]: https://en.wikipedia.org/wiki/Arithmetic_mean
 
-[@stdlib/array/float32]: https://github.com/stdlib-js/array-float32/tree/umd
+[@stdlib/array/float32]: https://github.com/stdlib-js/array-float32/tree/umd/tree/umd
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
@@ -325,13 +329,13 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dnanmeanwd]: https://github.com/stdlib-js/stats-base-dnanmeanwd/tree/umd
+[@stdlib/stats/base/dnanmeanwd]: https://github.com/stdlib-js/stats-base-dnanmeanwd/tree/umd/tree/umd
 
-[@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd/tree/umd
+[@stdlib/stats/base/nanmeanwd]: https://github.com/stdlib-js/stats-base-nanmeanwd/tree/umd/tree/umd
 
-[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd/tree/umd
+[@stdlib/stats/base/smeanwd]: https://github.com/stdlib-js/stats-base-smeanwd/tree/umd/tree/umd
 
-[@stdlib/stats/base/snanmean]: https://github.com/stdlib-js/stats-base-snanmean/tree/umd
+[@stdlib/stats/base/snanmean]: https://github.com/stdlib-js/stats-base-snanmean/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
