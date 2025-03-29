@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`3e8a453`](https://github.com/stdlib-js/stdlib/commit/3e8a4533ddede9bc1916fa5b2f339380c091c0a4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4d373af`](https://github.com/stdlib-js/stdlib/commit/4d373afcaab56ccdd16e81455d3709083a68dec2) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`94f7922`](https://github.com/stdlib-js/stdlib/commit/94f7922c7cd9dd157de963eb399e1c1dc3b4cfbd) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmeanwd` [(#4802)](https://github.com/stdlib-js/stdlib/pull/4802) _(by Prashant Kumar Yadav, Athan Reines, Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
